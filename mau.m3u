@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us",America's Test Kitchen (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg" group-title="Ghibli",El castillo en el cielo
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg" group-title="Movies,Ghibli",El castillo en el cielo
 http://ia902704.us.archive.org/24/items/Peliculas-wii/El%20castillo%20en%20el%20cielo.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_incre_ble_castillo_vagabundo-661679030-large.jpg" group-title="Movies,Ghibli",El increible castillo vagabundo
+http://ia902704.us.archive.org/24/items/Peliculas-wii/El%20increible%20castillo%20vagabundo.mp4
