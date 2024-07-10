@@ -103,5 +103,19 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/76.m3u8
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/34.m3u8
 #EXTINF:-1 tvg-id="ArchitecturalDigest.us",Architectural Digest (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="513" tvg-name="RTVE1" tvg-logo="https://cdn.m3u.cl/logo/513_RTVE1.png", RTVE1 | ES
+https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="514" tvg-name="RTVE24" tvg-logo="https://cdn.m3u.cl/logo/514_RTVE24.png", RTVE24 | ES
+https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="621" tvg-name="Telemadrid" tvg-logo="https://cdn.m3u.cl/logo/621_Telemadrid.png", Telemadrid | ES
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="625" tvg-name="TV3 Television de Catalunya" tvg-logo="https://cdn.m3u.cl/logo/625_TV3_Television_de_Catalunya.png", TV3 Television de Catalunya | ES
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="631" tvg-name="Real Madrid TV HD" tvg-logo="https://cdn.m3u.cl/logo/631_Real_Madrid_TV_HD.png", Real Madrid TV HD | ES
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://cdn.m3u.cl/logo/613_La_1.png", La 1 | ES
+https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://cdn.m3u.cl/logo/614_La_2.png", La 2 | ES
+https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV US (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
