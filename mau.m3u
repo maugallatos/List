@@ -13,6 +13,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159055
 #EXTINF:-1 group-title="Noticias México",Canal 22 (MX)(R)
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159069
+#EXTINF:-1 group-title="Noticias México",Canal Once FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159071
 #EXTINF:-1 group-title="Entretenimiento México",Azteca 7 FHD (MX)(R)
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159476
 #EXTINF:-1 group-title="Entretenimiento México",Las Estrellas HD (MX)(R)
@@ -26,8 +28,6 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159848
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159351
 #EXTINF:-1 group-title="LOCALES",Canal 5 HD (MX)(R)
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159068
-#EXTINF:-1 group-title="LOCALES",Canal Once FHD (MX)(R)
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159071
 #EXTINF:-1 group-title="KIDS",Cartoon Network HD (MX)(R)
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159119
 #EXTINF:-1 group-title="CINE",Cinecanal FHD (MX)(R)
