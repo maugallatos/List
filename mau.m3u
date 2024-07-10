@@ -9,30 +9,130 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159081
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="Noticias México",Imagen TV(-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 group-title="LOCALES", AZTECA 7
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/116.m3u8
-#EXTINF:-1 group-title="LOCALES", AZTECA 7
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/111.m3u8
-#EXTINF:-1  group-title="LOCALES", Azteca 7
-https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/451.m3u8
-#EXTINF:-1 group-title="LOCALES", AZTECA 7 HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/116.m3u8
-#EXTINF:-1 group-title="LOCALES", AZTECA 7 :TV
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/111.m3u8
-#EXTINF:-1 group-title="LOCALES",Azteca 7
-http://pe.shortgod.com/wow/play.php?id=1
-#EXTINF:-1 group-title="LOCALES", AZTECA 7 HD DISH
-http://45.228.234.167:8000/play/a0la/index.m3u8
-#EXTINF:-1 group-title="LOCALES",Azteca 7 HD (MX)(R)
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159474
-#EXTINF:-1 group-title="LOCALES",Azteca 7 SD (MX)(R)
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159475
-#EXTINF:-1 group-title="LOCALES",Azteca 7 FHD (MX)(R)
+#EXTINF:-1 group-title="Entretenimiento México",Azteca 7 FHD (MX)(R)
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159476
-#EXTINF:-1 group-title="LOCALES",Las Estrellas -2 HD (MX)(R)
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159083
-#EXTINF:-1 group-title="LOCALES",Las Estrellas HD (MX)(R)
+#EXTINF:-1 group-title="Entretenimiento México",Las Estrellas HD (MX)(R)
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/127052
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="LOCALES",A+ (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159054
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159150
+#EXTINF:-1 group-title="LOCALES",ADN 40 HD(MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159055
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AdultSwim FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159848
+#EXTINF:-1 group-title="CONOCIMIENTO",Animal Planet FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159351
+#EXTINF:-1 group-title="LOCALES",Canal 22 (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159069
+#EXTINF:-1 group-title="LOCALES",Canal 5 HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159068
+#EXTINF:-1 group-title="LOCALES",Canal Once FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159071
+#EXTINF:-1 group-title="KIDS",Cartoon Network HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159119
+#EXTINF:-1 group-title="CINE",Cinecanal FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159212
+#EXTINF:-1 group-title="CINE",Cinemax FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159216
+#EXTINF:-1 group-title="INFORMACIÓN",CNN En espaÃ±ol (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159072
+#EXTINF:-1 group-title="INFORMACIÓN",CNN Internacional FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159074
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159155
+#EXTINF:-1 group-title="CONOCIMIENTO",D-overy Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159353
+#EXTINF:-1 group-title="USA",D-overy Familia EspaÃ±ol (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159157
+#EXTINF:-1 group-title="ENTRETENIMIENTO",D-overy H&H FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159160
+#EXTINF:-1 group-title="ENTRETENIMIENTO",D-overy Investigation FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159356
+#EXTINF:-1 group-title="KIDS",D-overy Kids FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159126
+#EXTINF:-1 group-title="CONOCIMIENTO",D-overy Science FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159362
+#EXTINF:-1 group-title="CONOCIMIENTO",D-overy Theater FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159359
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="ENTRETENIMIENTO",D-overy TLC FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159163
+#EXTINF:-1 group-title="CONOCIMIENTO",D-overy Turbo FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159166
+#EXTINF:-1 group-title="CONOCIMIENTO",D-overy World FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159366
+#EXTINF:-1 group-title="KIDS",Disney Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159123
+#EXTINF:-1 group-title="KIDS",Disney Junior FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159129
+#EXTINF:-1 group-title="INTERNACIONAL",DW (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159156
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E! Entertaiment FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159172
+#EXTINF:-1 group-title="CINE",Film & Arts (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159179
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Food Network FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159184
+#EXTINF:-1 group-title="LOCALES",FORO TV FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159076
+#EXTINF:-1 group-title="DEPORTES",FOXS Prem FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/160091
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159181
+#EXTINF:-1 group-title="PREMIUM",H-B-O 2 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159237
+#EXTINF:-1 group-title="PREMIUM",H-B-O Family FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159243
+#EXTINF:-1 group-title="PREMIUM",H-B-O FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159234
+#EXTINF:-1 group-title="PREMIUM",H-B-O Mundi HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159248
+#EXTINF:-1 group-title="PREMIUM",H-B-O Plus FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159240
+#EXTINF:-1 group-title="PREMIUM",H-B-O POP HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159249
+#EXTINF:-1 group-title="PREMIUM",H-B-O Signature FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159246
+#EXTINF:-1 group-title="PREMIUM",H-B-O Xtreme FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/157632
+#EXTINF:-1 group-title="CONOCIMIENTO",History Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159368
+#EXTINF:-1 group-title="INFORMACIÓN",Milenio HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159084
+#EXTINF:-1 group-title="LOCALES",Multimedios (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159088
+#EXTINF:-1 group-title="LOCALES",Multimedios CDMX (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159086
+#EXTINF:-1 group-title="CONOCIMIENTO",NatGeo Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159373
+#EXTINF:-1 group-title="KIDS",Nick Junior HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159137
+#EXTINF:-1 group-title="KIDS",Nickelodeon FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159132
+#EXTINF:-1 group-title="CINE",Panico HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159250
+#EXTINF:-1 group-title="CINE",Paramount Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159253
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Sony FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/157987
+#EXTINF:-1 group-title="CINE",Sony Movies HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159257
+#EXTINF:-1 group-title="CINE",Studio Uni-versal FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159260
+#EXTINF:-1 group-title="CINE",T-N-T FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159263
+#EXTINF:-1 group-title="ENTRETENIMIENTO",T-N-T Series FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159205
+#EXTINF:-1 group-title="INFORMACIÓN",Teleformula HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159091
+#EXTINF:-1 group-title="USA",Uni-ision Miami (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159852
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159208
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Warner Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159274
 #EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",ESPN 2
@@ -97,8 +197,6 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/193.m3u8
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/192.m3u8
 #EXTINF:-1 group-title="USA", ABC NEWS
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/24.m3u8
-#EXTINF:-1 group-title="LOCALES", ADN40
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/76.m3u8
 #EXTINF:-1 group-title="USA", ABC US SD
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/34.m3u8
 #EXTINF:-1 tvg-id="ArchitecturalDigest.us",Architectural Digest (720p)
