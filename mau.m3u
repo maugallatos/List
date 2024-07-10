@@ -1,20 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AmericasTestKitchen.us",America's Test Kitchen (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg" group-title="Ghibli",El castillo en el cielo
 http://ia902704.us.archive.org/24/items/Peliculas-wii/El%20castillo%20en%20el%20cielo.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_incre_ble_castillo_vagabundo-661679030-large.jpg" group-title="Ghibli",El increible castillo vagabundo
 http://ia902704.us.archive.org/24/items/Peliculas-wii/El%20increible%20castillo%20vagabundo.mp4
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png" group-title="Noticias México", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png" group-title="Noticias México", Las Estrellas
-http://45.228.234.167:8000/play/a0le/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="Entretenimiento México", Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="Entretenimiento México", Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="Noticias México",Imagen Tv
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159081
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="Noticias México",Imagen TV(-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-
+#EXTINF:-1 group-title="LOCALES", AZTECA 7
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/116.m3u8
+#EXTINF:-1 group-title="LOCALES", AZTECA 7
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/111.m3u8
+#EXTINF:-1  group-title="LOCALES", Azteca 7
+https://nffthex0kzt.xyz/rk/VcxfgkgdsrgxcyfgjjbpokjvmgddcgfghfxXA/PoljgdzccxzAsfgvhgfjjcxbbQdfdgyhjjkhfxfg/451.m3u8
+#EXTINF:-1 group-title="LOCALES", AZTECA 7 HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/116.m3u8
+#EXTINF:-1 group-title="LOCALES", AZTECA 7 :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/111.m3u8
+#EXTINF:-1 group-title="LOCALES",Azteca 7
+http://pe.shortgod.com/wow/play.php?id=1
+#EXTINF:-1 group-title="LOCALES", AZTECA 7 HD DISH
+http://45.228.234.167:8000/play/a0la/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Azteca 7 HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159474
+#EXTINF:-1 group-title="LOCALES",Azteca 7 SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159475
+#EXTINF:-1 group-title="LOCALES",Azteca 7 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159476
+#EXTINF:-1 group-title="LOCALES",Las Estrellas -2 HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159083
+#EXTINF:-1 group-title="LOCALES",Las Estrellas HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/127052
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN CENTROA
+http://45.228.234.167:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 CENTROA HD
+http://45.228.234.167:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 CENTROA
+http://45.228.234.167:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 CENTROA
+http://45.228.234.167:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 CENTROA HD
+http://45.228.234.167:8000/play/a07v/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 CENTROA
+http://45.228.234.167:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5 CENTROA
+http://45.228.234.167:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 5 CENTROA HD
+http://45.228.234.167:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6 ANDINA
+http://45.228.234.167:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 6 ANDINA HD
+http://45.228.234.167:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN CENTROA HD
+http://45.228.234.167:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 CENTROA HD
+http://45.228.234.167:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Espn Premium
+http://pe.shortgod.com/wow/play.php?id=10
+#EXTINF:-1 group-title="DEPORTES",Espn Deportes
+http://pe.shortgod.com/wow/play.php?id=15
+#EXTINF:-1 group-title="DEPORTES",Espn 4
+http://pe.shortgod.com/wow/play.php?id=16
+#EXTINF:-1 group-title="DEPORTES",Espn Sur
+http://pe.shortgod.com/wow/play.php?id=17
+#EXTINF:-1 group-title="DEPORTES",Espn Mexico
+http://pe.shortgod.com/wow/play.php?id=27
+#EXTINF:-1 group-title="DEPORTES",Espn 2 Mexico
+http://pe.shortgod.com/wow/play.php?id=28
+EXTINF:-1 group-title="DEPORTES",Espn 3 Mexico
+http://pe.shortgod.com/wow/play.php?id=29
+#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES FHD
+http://pe.shortgod.com/wow/play.php?id=161
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium FHD
+http://pe.shortgod.com/wow/play.php?id=165
+#EXTINF:-1 group-title="DEPORTES", ESPN 1 US HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/4.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 4 MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/196.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 2 MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/194.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 1 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/193.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/192.m3u8
+#EXTINF:-1 group-title="USA", ABC NEWS
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/24.m3u8
+#EXTINF:-1 group-title="LOCALES", ADN40
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/76.m3u8
+#EXTINF:-1 group-title="USA", ABC US SD
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/34.m3u8
+#EXTINF:-1 tvg-id="ArchitecturalDigest.us",Architectural Digest (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV US (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
