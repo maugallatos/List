@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="ESPANA",CUATRO HD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/126261
-#EXTINF:-1 group-title="ESPANA",LA SEXTA HD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/126216
-#EXTINF:-1 group-title="ESPANA",TVE ᴴᴰ
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/126259
-#EXTINF:-1 group-title="ESPANA",TELECINCO HD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/126260
-#EXTINF:-1 group-title="ESPANA",MEGA ᴴᴰ
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/162915
-#EXTINF:-1 group-title="ESPANA",BE MAD HD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/126243
+#EXTINF:-1 tvg-id="ES | Cuatro" tvg-name="ES | Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/250px-Cuatro.svg.png" group-title="ESPAÑA", 1122 | Cuatro || ESPAÑA
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="ES | La Sexta" tvg-name="ES | La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/75px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", 1123 | La Sexta || ESPAÑA
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
